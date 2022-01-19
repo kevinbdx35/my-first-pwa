@@ -1,0 +1,16 @@
+{
+    "name":"Basic PWA Tutorial",
+    "short_name": "Basic PWA",
+    "lang": "en",
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#c2f442",
+    "icons": [{
+        "src": "agenda.png",
+        "sizes": "64x64"
+    },{
+        "src": "agenda_144.png",
+        "sizes": "144x144"
+    }]
+
+}
