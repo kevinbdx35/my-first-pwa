@@ -1,0 +1,13 @@
+{
+    "name": "Example PWA",
+    "short_name": "E-PWA",
+    "start_url": "index.html",
+    "icons": [{
+        "src": "book.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }],
+    "background_color": "#3E4EB8",
+    "display": "standalone",
+    "theme_color": "#2E3AA1"
+}
